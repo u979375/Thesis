@@ -17,5 +17,5 @@ Create a folder with Splitting_races_into_folders.ipynb, model20.ipynb, model40.
 
 ## Notes
 Some filenames did not follow the proper format. The incorrect filenames were manually corrected. \
-39_1_20170116174525125.jpg as 39_1_1_20170116174525125.jpg \
-61_1_20170109150557335.jpg as 61_1_1_20170109150557335.jpg
+39_1_20170116174525125.jpg corrected as 39_1_0_20170116174525125.jpg \
+61_1_20170109150557335.jpg corrected as 61_1_1_20170109150557335.jpg
